@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+.tm {
+   width: 120px;
+   height: 70px;
+}
+
+
+#galeria img{
+    width: 100%;
+}
+
+#galeria .col-lg-4 {
+    margin: 0 !important;
+    padding: 20px;
+}
+
+
+.contenedor{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(hawaii.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
